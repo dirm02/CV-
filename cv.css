@@ -1,0 +1,29 @@
+.page{
+  width: auto;
+  margin: auto;
+  font-size: 200px;
+  font-family: sans-serif;
+}
+.infophoto{
+  height: 250px;
+}
+.info{
+  float: left;
+}
+.photo{
+  float: right;
+}
+
+.section {
+  margin-bottom: auto;
+
+}
+.sous section{
+  float: left;
+}
+h3{
+  font-size: 20px;
+  color: #3388BB;
+  text-align: justify;
+  border-bottom: 3px solid #3388DD;
+}
